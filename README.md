@@ -5,7 +5,7 @@
 - 👀 Tenho interesse em **desenvolvimento de software**, **tecnologias backend**.
 - 🌱 Atualmente estou aprendendo **Spring Boot** e **Java** para aprimorar minhas habilidades em desenvolvimento backend.
 - 💞️ Estou buscando colaborar em **projetos de backend**, **desenvolvimento de APIs**.
-- 📫 Como me encontrar: Você pode me contatar pelo [email](gc910932@gmail.com) ou pelo [LinkedIn](...).
+- 📫 Como me encontrar: Você pode me contatar pelo [LinkedIn](https://www.linkedin.com/in/andersonsillva).
 - ⚡ Curiosidade: Adoro resolver desafios de programação e contribuir para projetos!
 
 ## Habilidades & Tecnologias
